@@ -28,12 +28,56 @@ Agile grants the advantage of being flexivle, adaptable and customer-focused.
 The disadvantage of this methodology is that it is less predictable and requires strong collaboration. 
 
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
+Agile methodology can be used in the following:
+- Projects with evolvinf requirements such as web applications and mobile apps
+- Projects requiring frequesnt customer feedback like a social media application.
+Waterfall methodology would be applicable in the following:
+- Projects with stable requirements like critical infrastructure
+- Projects with strict regulatory compliance.
+  
 ## 5. What are some methods for ensuring quality assurance throughout a software project? Why is it important to maintain high standards?
+The methods used for ensuring quality assurance include:
+- Code reviews
+- Testing
+- Automated testing
+- User acceptance testing
+- Continous integration/ continous delivery (CI/CD)
+  The importance of these methods is to reduce bugs and errors, improve user experience, enhance software reliability and security and reduce maintenance costs.
+  
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
+Defining project scopes helps define project boundaries and deliverables.  It prevents scope creep and ensures focus. 
+A work breakdown structure is a hierachical decomposition of project tasks. It is useful for task assignment, progress tracking and resource allocation. 
+
 ## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process?
+The benefits of a detailed project schedule include:
+- provision of a timeline for a project completion
+- facilitating resource allocation
+- Enabling progress monitoring
+- Improves communication
+Gantt charts provide a visual representation of the project schedule. They assist in the process by showing task dependancies, help track progress and identify potential delays.
+
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+The core issues that my software aims to address depends on the software being created. Issues that may arise include poor team communication, missed deadlines and inefficient task management.  The significance of these problems to the intended target audience is to handle any project failures, increased costs and decreased productivity that may arise. 
+
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
+Defining the problem helps in ensuring the solution addresses the root cause. This prevents development of unnecessary features and improves solution effectiveness and end user satisfaction. 
+
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
+Describing a software solution depends on the software being created. 
+For instance, if it is creating a project management tool, the solution would be :
+- "Our software provides a centralized platform for teams to collaborate, manage tasks and track project progress, ensuring projects are completed on time and within budget."
+- 
 ## 11. What are the main features or functionalities that make your software stand out?
+The main features or functionalities that make a software stand out is dependent on the software created. 
+With reference to the example of a project management tool, the features that would be included to make the software stand out are:
+- task management and tracking
+- Real-time communication
+- Progress reporting
+- 
 ## 12. What data is available regarding the market size and growth potential for your software?
+The data available regarding market size and growth requires market research. This will push for conducting researhfrom sources from industry reports, market analysis and competiion data.
+
 ## 13. How can understanding market trends inform your software’s positioning and development?
+Understanding market trends can inform the software's positioning and development by identifying the target audience needs, differentiating from competitors, adapting to emerging technologies and incorporating user feedback. 
+
+
